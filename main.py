@@ -5,7 +5,7 @@ Writes one line (at most 200 characters) to $MAKEFUN_OUTPUT_DIR/entry.txt.
 
 import os
 
-LINE = "Earth review: locals pay to watch other locals sleep on livestreams, then complain they are tired; five stars, would abduct again."
+LINE = "Earth review: the locals pay to watch strangers sleep on livestreams, then complain they are tired. Five stars, would abduct again."
 MAX_CHARS = 200
 
 
